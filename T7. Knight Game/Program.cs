@@ -6,7 +6,7 @@ namespace T7._Knight_Game
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int n = int.Parse(Console.ReadLine());
         }
     }
 }
