@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T5. Snake Moves", "T5. Snak
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T7. Knight Game", "T7. Knight Game\T7. Knight Game.csproj", "{E95EB172-5830-499B-9AAC-96054C3B80F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T.02 2X2 Squares in Matrix", "T.02 2X2 Squares in Matrix\T.02 2X2 Squares in Matrix.csproj", "{ECE47131-2532-4AB6-A7FF-7528F4BE00CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T.02 2X2 Squares in Matrix", "T.02 2X2 Squares in Matrix\T.02 2X2 Squares in Matrix.csproj", "{ECE47131-2532-4AB6-A7FF-7528F4BE00CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T8. Bombs", "T8. Bombs\T8. Bombs.csproj", "{844C2A2E-50B5-40C8-B977-7BEC603A6E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9. Miner", "T9. Miner\T9. Miner.csproj", "{E072E02F-C542-48D2-88F8-34B425CD8AA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{ECE47131-2532-4AB6-A7FF-7528F4BE00CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECE47131-2532-4AB6-A7FF-7528F4BE00CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECE47131-2532-4AB6-A7FF-7528F4BE00CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844C2A2E-50B5-40C8-B977-7BEC603A6E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844C2A2E-50B5-40C8-B977-7BEC603A6E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844C2A2E-50B5-40C8-B977-7BEC603A6E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844C2A2E-50B5-40C8-B977-7BEC603A6E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E072E02F-C542-48D2-88F8-34B425CD8AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E072E02F-C542-48D2-88F8-34B425CD8AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E072E02F-C542-48D2-88F8-34B425CD8AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E072E02F-C542-48D2-88F8-34B425CD8AA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
