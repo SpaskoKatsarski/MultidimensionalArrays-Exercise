@@ -19,17 +19,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T9. Miner", "T9. Miner\T9. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{C5F5425B-8DDE-4EA8-B12C-3D7A3596E712}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresInMatrix", "SquaresInMatrix\SquaresInMatrix.csproj", "{6B7A2237-4271-497D-831B-39406C8B3EC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquaresInMatrix", "SquaresInMatrix\SquaresInMatrix.csproj", "{6B7A2237-4271-497D-831B-39406C8B3EC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{940AC797-9049-423E-92BD-7F9F4C8E2406}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{940AC797-9049-423E-92BD-7F9F4C8E2406}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixShuffling", "MatrixShuffling\MatrixShuffling.csproj", "{98FF3F38-2899-4262-B038-74BA319A0870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixShuffling", "MatrixShuffling\MatrixShuffling.csproj", "{98FF3F38-2899-4262-B038-74BA319A0870}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeMoves", "SnakeMoves\SnakeMoves.csproj", "{4031647B-349B-4A57-8E82-0A470A435F17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnakeMoves", "SnakeMoves\SnakeMoves.csproj", "{4031647B-349B-4A57-8E82-0A470A435F17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrayManipulator", "JaggedArrayManipulator\JaggedArrayManipulator.csproj", "{BE2B4907-8668-4B24-BC67-21F490FD97B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaggedArrayManipulator", "JaggedArrayManipulator\JaggedArrayManipulator.csproj", "{BE2B4907-8668-4B24-BC67-21F490FD97B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightGame", "KnightGame\KnightGame.csproj", "{44A155A0-56A6-4C7B-8002-09545DCB3FAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KnightGame", "KnightGame\KnightGame.csproj", "{44A155A0-56A6-4C7B-8002-09545DCB3FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bombs", "Bombs\Bombs.csproj", "{F2AF327F-7BDF-4C88-BD20-9F77D75A58DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miner", "Miner\Miner.csproj", "{24C57CED-989C-4BDB-B189-080BC95FA226}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{44A155A0-56A6-4C7B-8002-09545DCB3FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44A155A0-56A6-4C7B-8002-09545DCB3FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44A155A0-56A6-4C7B-8002-09545DCB3FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AF327F-7BDF-4C88-BD20-9F77D75A58DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AF327F-7BDF-4C88-BD20-9F77D75A58DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AF327F-7BDF-4C88-BD20-9F77D75A58DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AF327F-7BDF-4C88-BD20-9F77D75A58DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C57CED-989C-4BDB-B189-080BC95FA226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C57CED-989C-4BDB-B189-080BC95FA226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C57CED-989C-4BDB-B189-080BC95FA226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C57CED-989C-4BDB-B189-080BC95FA226}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
